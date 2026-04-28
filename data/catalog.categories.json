@@ -1,0 +1,11 @@
+{
+  "currency_code": "GBP",
+  "categories": [
+    { "name": "Women", "slug": "women" },
+    { "name": "Men", "slug": "men" },
+    { "name": "Kids", "slug": "kids" },
+    { "name": "Electronics", "slug": "electronics" },
+    { "name": "Home & Living", "slug": "home-living" }
+  ]
+}
+

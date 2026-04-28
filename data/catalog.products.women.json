@@ -1,0 +1,248 @@
+[
+  {
+    "slug": "women-rib-top",
+    "title": "Rib Top",
+    "category": "Women",
+    "subcategory": "tops",
+    "brand": "Q Studio",
+    "rating_avg": 4.6,
+    "rating_count": 128,
+    "stock_qty": 25,
+    "colors": ["cream", "black"],
+    "sizes": ["XS", "S", "M", "L"],
+    "image_variants": [
+      { "color": "cream", "query": "women rib knit top studio photo" },
+      { "color": "black", "query": "women black ribbed top photo" }
+    ]
+  },
+  {
+    "slug": "women-satin-blouse",
+    "title": "Satin Blouse",
+    "category": "Women",
+    "subcategory": "tops",
+    "brand": "Q Line",
+    "rating_avg": 4.5,
+    "rating_count": 94,
+    "stock_qty": 18,
+    "colors": ["rose", "black"],
+    "sizes": ["XS", "S", "M", "L"],
+    "image_variants": [
+      { "color": "rose", "query": "women satin blouse pink photo" },
+      { "color": "black", "query": "women black satin blouse photo" }
+    ]
+  },
+  {
+    "slug": "women-knit-sweater",
+    "title": "Knit Sweater",
+    "category": "Women",
+    "subcategory": "tops",
+    "brand": "Q Basics",
+    "rating_avg": 4.7,
+    "rating_count": 201,
+    "stock_qty": 22,
+    "colors": ["mint", "charcoal"],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "image_variants": [
+      { "color": "mint", "query": "women mint knit sweater photo" },
+      { "color": "charcoal", "query": "women charcoal knit sweater photo" }
+    ]
+  },
+  {
+    "slug": "women-wrap-tee",
+    "title": "Wrap Tee",
+    "category": "Women",
+    "subcategory": "tops",
+    "brand": "Q Everyday",
+    "rating_avg": 4.4,
+    "rating_count": 77,
+    "stock_qty": 30,
+    "colors": ["white", "navy"],
+    "sizes": ["XS", "S", "M", "L"],
+    "image_variants": [
+      { "color": "white", "query": "women white wrap top photo" },
+      { "color": "navy", "query": "women navy wrap top photo" }
+    ]
+  },
+
+  {
+    "slug": "women-straight-pants",
+    "title": "Straight Pants",
+    "category": "Women",
+    "subcategory": "pants",
+    "brand": "Q Tailored",
+    "rating_avg": 4.6,
+    "rating_count": 112,
+    "stock_qty": 24,
+    "colors": ["stone", "black"],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "image_variants": [
+      { "color": "stone", "query": "women stone straight pants photo" },
+      { "color": "black", "query": "women black straight pants photo" }
+    ]
+  },
+  {
+    "slug": "women-wide-pants",
+    "title": "Wide Pants",
+    "category": "Women",
+    "subcategory": "pants",
+    "brand": "Q Tailored",
+    "rating_avg": 4.7,
+    "rating_count": 89,
+    "stock_qty": 16,
+    "colors": ["navy"],
+    "sizes": ["XS", "S", "M", "L"],
+    "image_variants": [{ "color": "navy", "query": "women wide leg navy trousers photo" }]
+  },
+  {
+    "slug": "women-cargo-pants",
+    "title": "Cargo Pants",
+    "category": "Women",
+    "subcategory": "pants",
+    "brand": "Q Street",
+    "rating_avg": 4.3,
+    "rating_count": 63,
+    "stock_qty": 20,
+    "colors": ["khaki", "black"],
+    "sizes": ["XS", "S", "M", "L"],
+    "image_variants": [
+      { "color": "khaki", "query": "women khaki cargo pants photo" },
+      { "color": "black", "query": "women black cargo pants photo" }
+    ]
+  },
+  {
+    "slug": "women-active-leggings",
+    "title": "Active Leggings",
+    "category": "Women",
+    "subcategory": "pants",
+    "brand": "Q Active",
+    "rating_avg": 4.6,
+    "rating_count": 310,
+    "stock_qty": 40,
+    "colors": ["graphite"],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "image_variants": [{ "color": "graphite", "query": "women graphite leggings studio photo" }]
+  },
+
+  {
+    "slug": "women-court-sneakers",
+    "title": "Court Sneakers",
+    "category": "Women",
+    "subcategory": "shoes",
+    "brand": "Q Footwear",
+    "rating_avg": 4.5,
+    "rating_count": 51,
+    "stock_qty": 28,
+    "colors": ["white", "black"],
+    "sizes": ["36", "37", "38", "39", "40"],
+    "image_variants": [
+      { "color": "white", "query": "women white sneakers product photo" },
+      { "color": "black", "query": "women black sneakers product photo" }
+    ]
+  },
+  {
+    "slug": "women-ankle-boots",
+    "title": "Ankle Boots",
+    "category": "Women",
+    "subcategory": "shoes",
+    "brand": "Q Footwear",
+    "rating_avg": 4.4,
+    "rating_count": 73,
+    "stock_qty": 14,
+    "colors": ["black"],
+    "sizes": ["36", "37", "38", "39", "40"],
+    "image_variants": [{ "color": "black", "query": "women black ankle boots product photo" }]
+  },
+  {
+    "slug": "women-run-shoes",
+    "title": "Run Shoes",
+    "category": "Women",
+    "subcategory": "shoes",
+    "brand": "Q Active",
+    "rating_avg": 4.6,
+    "rating_count": 142,
+    "stock_qty": 26,
+    "colors": ["sand", "black"],
+    "sizes": ["36", "37", "38", "39", "40"],
+    "image_variants": [
+      { "color": "sand", "query": "women beige running shoes product photo" },
+      { "color": "black", "query": "women black running shoes product photo" }
+    ]
+  },
+
+  {
+    "slug": "women-denim-jacket",
+    "title": "Denim Jacket",
+    "category": "Women",
+    "subcategory": "jackets",
+    "brand": "Q Denim",
+    "rating_avg": 4.5,
+    "rating_count": 98,
+    "stock_qty": 12,
+    "colors": ["sky", "white"],
+    "sizes": ["XS", "S", "M", "L"],
+    "image_variants": [
+      { "color": "sky", "query": "women light blue denim jacket photo" },
+      { "color": "white", "query": "women white denim jacket photo" }
+    ]
+  },
+  {
+    "slug": "women-puffer-jacket",
+    "title": "Puffer Jacket",
+    "category": "Women",
+    "subcategory": "jackets",
+    "brand": "Q Outerwear",
+    "rating_avg": 4.6,
+    "rating_count": 121,
+    "stock_qty": 10,
+    "colors": ["charcoal"],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "image_variants": [{ "color": "charcoal", "query": "women charcoal puffer jacket photo" }]
+  },
+  {
+    "slug": "women-trench-coat",
+    "title": "Trench Coat",
+    "category": "Women",
+    "subcategory": "jackets",
+    "brand": "Q Outerwear",
+    "rating_avg": 4.7,
+    "rating_count": 66,
+    "stock_qty": 9,
+    "colors": ["stone"],
+    "sizes": ["XS", "S", "M", "L"],
+    "image_variants": [{ "color": "stone", "query": "women beige trench coat photo" }]
+  },
+
+  {
+    "slug": "women-mini-bag",
+    "title": "Mini Bag",
+    "category": "Women",
+    "subcategory": "accessories",
+    "brand": "Q Accessories",
+    "rating_avg": 4.4,
+    "rating_count": 76,
+    "stock_qty": 35,
+    "colors": ["tan", "black"],
+    "sizes": [],
+    "image_variants": [
+      { "color": "tan", "query": "women tan shoulder bag product photo" },
+      { "color": "black", "query": "women black shoulder bag product photo" }
+    ]
+  },
+  {
+    "slug": "women-hoop-earrings",
+    "title": "Hoop Earrings",
+    "category": "Women",
+    "subcategory": "accessories",
+    "brand": "Q Accessories",
+    "rating_avg": 4.3,
+    "rating_count": 54,
+    "stock_qty": 60,
+    "colors": ["silver", "gold"],
+    "sizes": [],
+    "image_variants": [
+      { "color": "silver", "query": "silver hoop earrings product photo" },
+      { "color": "gold", "query": "gold hoop earrings product photo" }
+    ]
+  }
+]
+

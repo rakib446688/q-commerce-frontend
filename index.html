@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/logo.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Q-Commerce | Fast shopping, smarter recommendations</title>
+    <meta
+      name="description"
+      content="Q-Commerce is a modern e-commerce experience with smart recommendations and an AI shopping assistant."
+    />
+    <meta name="theme-color" content="#0b0f19" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Q-Commerce" />
+    <meta
+      property="og:description"
+      content="Fast shopping, smarter recommendations, AI assistant."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/logo.jpg" />
+
+    <!-- JSON-LD (basic SEO scaffolding) -->
+    <script>
+      (function () {
+        try {
+          const origin = window.location.origin;
+          const payload = {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            name: "Q-Commerce",
+            url: origin,
+            potentialAction: {
+              "@type": "SearchAction",
+              target: `${origin}/search?q={search_term_string}`,
+              "query-input": "required name=search_term_string",
+            },
+          };
+
+          const script = document.createElement("script");
+          script.type = "application/ld+json";
+          script.textContent = JSON.stringify(payload);
+          document.head.appendChild(script);
+        } catch {
+          // ignore
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

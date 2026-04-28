@@ -1,0 +1,78 @@
+BACKEND SUMMARY - Q-Commerce Store (Supabase)
+
+Overview
+- Backend uses Supabase (Postgres + Auth).
+- Auth uses Supabase email/password.
+- Orders and order_items are stored in Supabase with RLS.
+
+Supabase Auth
+- Auth provider: Email/Password.
+- Site URL set to http://localhost:5173.
+- Redirect URL includes http://localhost:5173/*.
+- Email confirmation behavior configured in Supabase Auth settings.
+
+Supabase Client
+- src/lib/supabaseClient.js reads VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY.
+- Fails fast with a clear error if env vars are missing.
+
+Database Schema
+- supabase_schema.sql defines:
+  - public.categories
+  - public.products
+  - public.orders
+  - public.order_items
+- Orders table includes:
+  - currency_code, customer_name, customer_email, delivery_address
+  - payment_status, payment_method, notes
+- Order items table includes:
+  - product_slug, image_url, line_total
+
+RLS Policies
+- Categories/products: public read (active products only).
+- Orders: authenticated users can read/insert only their own orders.
+- Order items: authenticated users can read/insert only their own items.
+
+Seed Data
+- supabase_seed.sql inserts categories and products using upsert on slug.
+
+Checkout Flow
+- Checkout inserts into orders with user_id and new fields.
+- Order items insert includes product_slug, image_url, line_total.
+- Cart remains localStorage; cleared after successful order.
+
+Orders / Account
+- Orders and recent orders are fetched from Supabase (RLS-protected).
+- Account and Orders pages display Supabase-backed data.
+
+Environment
+- Required env vars (Vite):
+  - VITE_SUPABASE_URL
+  - VITE_SUPABASE_ANON_KEY
+
+Verification Checklist
+- Place a new order and confirm:
+  - orders row includes currency_code, customer_name, customer_email, delivery_address, payment_status, payment_method
+  - order_items row includes product_slug, image_url, line_total
+- RLS policies are enabled and present (as shown in Supabase dashboard).
+- Auth URL configuration includes Site URL + Redirect URLs.
+
+Files Touched (Backend)
+- supabase_schema.sql
+- supabase_seed.sql
+- src/lib/supabaseClient.js
+- src/lib/store/ordersStore.js
+- src/context/AuthContext.jsx
+- src/pages/Login.jsx
+- src/pages/Signup.jsx
+- src/pages/Orders.jsx
+- src/pages/Account.jsx
+
+Backend Tests to Run
+- npm run dev
+- Sign up / login / logout
+- Place order in checkout; verify order in Supabase
+- View Orders and Account recent orders lists
+
+Notes
+- Cloudflare/Vite dev allowedHosts set for tunnel use (dev).
+- No server-side payment integration; payment_status set to paid (manual).

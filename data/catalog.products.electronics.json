@@ -1,0 +1,223 @@
+[
+  {
+    "slug": "electronics-smartphone",
+    "title": "Smartphone",
+    "category": "Electronics",
+    "subcategory": "phones",
+    "brand": "Q Mobile",
+    "rating_avg": 4.5,
+    "rating_count": 520,
+    "stock_qty": 15,
+    "colors": ["black", "silver"],
+    "sizes": [],
+    "image_variants": [
+      { "color": "black", "query": "smartphone black product photo" },
+      { "color": "silver", "query": "smartphone silver product photo" }
+    ]
+  },
+  {
+    "slug": "electronics-phone-case",
+    "title": "Phone Case",
+    "category": "Electronics",
+    "subcategory": "accessories",
+    "brand": "Q Mobile",
+    "rating_avg": 4.3,
+    "rating_count": 210,
+    "stock_qty": 70,
+    "colors": ["clear", "black"],
+    "sizes": [],
+    "image_variants": [
+      { "color": "clear", "query": "clear phone case product photo" },
+      { "color": "black", "query": "black phone case product photo" }
+    ]
+  },
+  {
+    "slug": "electronics-laptop",
+    "title": "Laptop",
+    "category": "Electronics",
+    "subcategory": "computers",
+    "brand": "Q Tech",
+    "rating_avg": 4.6,
+    "rating_count": 340,
+    "stock_qty": 9,
+    "colors": ["silver"],
+    "sizes": [],
+    "image_variants": [{ "color": "silver", "query": "silver laptop product photo" }]
+  },
+  {
+    "slug": "electronics-earbuds",
+    "title": "Wireless Earbuds",
+    "category": "Electronics",
+    "subcategory": "audio",
+    "brand": "Q Audio",
+    "rating_avg": 4.4,
+    "rating_count": 410,
+    "stock_qty": 25,
+    "colors": ["white", "black"],
+    "sizes": [],
+    "image_variants": [
+      { "color": "white", "query": "wireless earbuds white product photo" },
+      { "color": "black", "query": "wireless earbuds black product photo" }
+    ]
+  },
+  {
+    "slug": "electronics-headphones",
+    "title": "Headphones",
+    "category": "Electronics",
+    "subcategory": "audio",
+    "brand": "Q Audio",
+    "rating_avg": 4.5,
+    "rating_count": 280,
+    "stock_qty": 20,
+    "colors": ["black"],
+    "sizes": [],
+    "image_variants": [{ "color": "black", "query": "black over ear headphones product photo" }]
+  },
+  {
+    "slug": "electronics-smartwatch",
+    "title": "Smartwatch",
+    "category": "Electronics",
+    "subcategory": "wearables",
+    "brand": "Q Tech",
+    "rating_avg": 4.3,
+    "rating_count": 190,
+    "stock_qty": 16,
+    "colors": ["black", "silver"],
+    "sizes": [],
+    "image_variants": [
+      { "color": "black", "query": "black smartwatch product photo" },
+      { "color": "silver", "query": "silver smartwatch product photo" }
+    ]
+  },
+  {
+    "slug": "electronics-tablet",
+    "title": "Tablet",
+    "category": "Electronics",
+    "subcategory": "tablets",
+    "brand": "Q Tech",
+    "rating_avg": 4.5,
+    "rating_count": 210,
+    "stock_qty": 12,
+    "colors": ["silver"],
+    "sizes": [],
+    "image_variants": [{ "color": "silver", "query": "tablet silver product photo" }]
+  },
+  {
+    "slug": "electronics-speaker",
+    "title": "Speaker",
+    "category": "Electronics",
+    "subcategory": "audio",
+    "brand": "Q Audio",
+    "rating_avg": 4.4,
+    "rating_count": 160,
+    "stock_qty": 24,
+    "colors": ["charcoal"],
+    "sizes": [],
+    "image_variants": [{ "color": "charcoal", "query": "portable bluetooth speaker product photo" }]
+  },
+  {
+    "slug": "electronics-gaming-mouse",
+    "title": "Gaming Mouse",
+    "category": "Electronics",
+    "subcategory": "accessories",
+    "brand": "Q Tech",
+    "rating_avg": 4.4,
+    "rating_count": 140,
+    "stock_qty": 35,
+    "colors": ["black"],
+    "sizes": [],
+    "image_variants": [{ "color": "black", "query": "gaming mouse black product photo" }]
+  },
+  {
+    "slug": "electronics-keyboard",
+    "title": "Keyboard",
+    "category": "Electronics",
+    "subcategory": "accessories",
+    "brand": "Q Tech",
+    "rating_avg": 4.3,
+    "rating_count": 120,
+    "stock_qty": 30,
+    "colors": ["black"],
+    "sizes": [],
+    "image_variants": [{ "color": "black", "query": "mechanical keyboard black product photo" }]
+  },
+  {
+    "slug": "electronics-usb-hub",
+    "title": "USB-C Hub",
+    "category": "Electronics",
+    "subcategory": "accessories",
+    "brand": "Q Tech",
+    "rating_avg": 4.2,
+    "rating_count": 95,
+    "stock_qty": 60,
+    "colors": ["silver"],
+    "sizes": [],
+    "image_variants": [{ "color": "silver", "query": "usb c hub product photo" }]
+  },
+  {
+    "slug": "electronics-power-bank",
+    "title": "Power Bank",
+    "category": "Electronics",
+    "subcategory": "accessories",
+    "brand": "Q Mobile",
+    "rating_avg": 4.4,
+    "rating_count": 230,
+    "stock_qty": 50,
+    "colors": ["black"],
+    "sizes": [],
+    "image_variants": [{ "color": "black", "query": "portable power bank black product photo" }]
+  },
+  {
+    "slug": "electronics-action-camera",
+    "title": "Action Camera",
+    "category": "Electronics",
+    "subcategory": "cameras",
+    "brand": "Q Tech",
+    "rating_avg": 4.3,
+    "rating_count": 110,
+    "stock_qty": 14,
+    "colors": ["black"],
+    "sizes": [],
+    "image_variants": [{ "color": "black", "query": "action camera product photo" }]
+  },
+  {
+    "slug": "electronics-monitor",
+    "title": "Monitor",
+    "category": "Electronics",
+    "subcategory": "computers",
+    "brand": "Q Tech",
+    "rating_avg": 4.5,
+    "rating_count": 130,
+    "stock_qty": 8,
+    "colors": ["black"],
+    "sizes": [],
+    "image_variants": [{ "color": "black", "query": "computer monitor product photo" }]
+  },
+  {
+    "slug": "electronics-router",
+    "title": "Wi‑Fi Router",
+    "category": "Electronics",
+    "subcategory": "network",
+    "brand": "Q Tech",
+    "rating_avg": 4.2,
+    "rating_count": 70,
+    "stock_qty": 20,
+    "colors": ["white"],
+    "sizes": [],
+    "image_variants": [{ "color": "white", "query": "wifi router product photo" }]
+  },
+  {
+    "slug": "electronics-webcam",
+    "title": "Webcam",
+    "category": "Electronics",
+    "subcategory": "accessories",
+    "brand": "Q Tech",
+    "rating_avg": 4.1,
+    "rating_count": 60,
+    "stock_qty": 28,
+    "colors": ["black"],
+    "sizes": [],
+    "image_variants": [{ "color": "black", "query": "webcam product photo" }]
+  }
+]
+

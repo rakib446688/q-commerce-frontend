@@ -1,0 +1,105 @@
+FRONTEND SUMMARY - Q-Commerce Store
+
+Overview
+- Project: Vite + React storefront UI for Q-Commerce.
+- Goal: modern light UI, minimal header, hero image, category tiles, product rails, consistent cards, checkout polish, footer branding, and accessibility/hover feedback.
+
+Core UI Layout and Theme
+- Light theme variables and global styles are set in the project stylesheet(s) to produce a clean, minimal, image-led layout.
+- Body background uses a pale ash tone to create contrast between the page edge and the main content cards.
+- Consistent container width and card styling applied for spacing, borders, and shadows.
+
+Header / Navigation
+- Minimal top bar with left hamburger drawer, center brand, right icon actions.
+- Brand logo uses /logo.jpg and is displayed in the header and footer.
+- Header buttons have hover and focus styles for professional feedback.
+- Search toggle displays a full-width input row under the header.
+
+Hero Section
+- Full-width hero image with centered headline and two CTAs.
+- CTAs link to Women and Men category listings using query parameters.
+- Hover state darkening on CTAs enabled for better interaction feedback.
+
+Category Tiles
+- CategoryTiles component displays 5 tiles: Women, Men, Kids, Electronics, Home & Living.
+- Tiles use image backgrounds with gradient overlays to improve text legibility.
+- Labels are bold, white, and larger for visibility.
+- Tile hover transforms and focus-visible outlines are applied.
+- Kids tile uses a kids apparel image.
+
+Product Rails and Cards
+- ProductRail component provides horizontal scrolling with optional arrows.
+- Trending rail uses interaction-based trending (top scored items) where applicable.
+- ProductCard layout updated: image, badges, brand, title, price, rating, swatches.
+- Badges limited to Trending per requirements.
+- Swatches and sizes are accessible buttons with focus-visible styling.
+
+Shop / Category Listing
+- CategoryListing uses react-router useLocation for search params and reliable re-rendering.
+- Sorting removed completely.
+- Category filtering uses top-level categories and subcategories per requirements.
+- Filters include color, and size selection is required before adding to cart in QuickView/ProductDetail.
+
+Quick View / Product Detail
+- QuickView enforces size selection before Add to Cart.
+- Color selection swaps image within the same product.
+- Hover image uses second image when available.
+
+Cart / Checkout / Account
+- Cart totals show subtotal + fixed 3 GBP shipping.
+- Checkout form fields have labels and placeholders.
+- Checkout summary card styled dark ash with white text; inputs remain readable.
+- Account page shows profile, actions, and recent orders list.
+
+Footer
+- Footer includes logo and navigation columns.
+- Footer credit line set to: "Website Designed by MD Rakib Hasan".
+- Credit styling: bold, larger size, zinc-white transparent color.
+
+Search
+- Header search routes to shop with a query parameter.
+- Shop page filters products by query.
+
+Accessibility / UX
+- Focus-visible outlines on interactive elements.
+- Hover states on buttons, tiles, and icons.
+- Dialog semantics added for QuickView (role, aria-modal, ESC to close) where present.
+
+Local Storage / Client State
+- Cart, wishlist, trending, and orders use localStorage with per-user keying based on q_user_id.
+- q_user_id synced from Supabase auth session.
+
+Files Touched (Frontend)
+- src/components/Footer.jsx
+- src/components/CategoryTiles.jsx
+- src/components/ProductCard.jsx
+- src/components/ProductRail.jsx
+- src/components/QuickViewModal.jsx
+- src/context/AuthContext.jsx (frontend auth state)
+- src/pages/Home.jsx
+- src/pages/CategoryListing.jsx
+- src/pages/Shop.jsx
+- src/pages/Trending.jsx
+- src/pages/Cart.jsx
+- src/pages/Checkout.jsx
+- src/pages/Account.jsx
+- src/pages/Orders.jsx
+- src/Layout.jsx
+- src/App.jsx
+- src/styles.css
+- src/styles/theme.css
+- public/logo.jpg
+
+Frontend Tests to Run
+- npm run dev
+- Home: hero, category tiles, rails, footer, header interactions.
+- Category: filtering by category/subcategory via query params.
+- Shop search: enter query and verify filtering.
+- QuickView: require size selection; color changes image.
+- Cart/Checkout: totals and fixed shipping; form labels visible.
+- Account/Orders: orders list displays and actions work.
+
+Notes
+- UI changes preserved existing routing structure (pages.config.js + createPageUrl).
+- Sorting removed across listing pages per requirements.
+- No local product images added; remote URLs used.

@@ -1,0 +1,33 @@
+:root{
+  --bg:#f4f6f9;
+  --text:#101828;
+  --muted:#667085;
+  --border:#eaecf0;
+  --card:#fff;
+  --accent:#ff7a00;
+  --shadow:0 12px 32px rgba(16,24,40,.10);
+  --pill:#f2f4f7;
+  --pillText:#344054;
+  --black:#111827;
+  --radius:16px;
+  --max:1200px;
+}
+
+body{
+  background:var(--bg);
+  color:var(--text);
+  font-family:system-ui,Inter,Segoe UI,sans-serif;
+}
+
+a{color:inherit}
+
+.container{max-width:1200px;margin:0 auto;padding:0 24px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:16px;box-shadow:var(--shadow)}
+.kicker{color:var(--pillText);letter-spacing:.22em;font-size:12px;text-transform:uppercase}
+.h1{font-weight:300;font-size:56px;line-height:1.05}
+.h2{font-weight:300;font-size:40px;line-height:1.1}
+.sectionTitle{font-weight:300;text-align:center}
+.underline{width:52px;height:3px;background:var(--text);margin:10px auto 0;border-radius:3px}
+.btnPrimary{background:var(--black);color:#fff;border-radius:10px;padding:14px 18px;border:0}
+.btnGhost{background:#fff;color:var(--text);border:1px solid var(--border);border-radius:10px;padding:14px 18px}
+.focus:focus-visible{outline:2px solid #7aa7ff;outline-offset:2px}

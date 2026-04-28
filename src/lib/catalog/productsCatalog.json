@@ -1,0 +1,2211 @@
+[
+  {
+    "id": "women-rib-top",
+    "db_id": null,
+    "legacy_id": "women-rib-top",
+    "slug": "women-rib-top",
+    "title": "Rib Top",
+    "category": "Women",
+    "subcategory": "tops",
+    "price": 14,
+    "rating_avg": 4.6,
+    "rating_count": 128,
+    "colors": [
+      "cream",
+      "black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "color_images": {
+      "cream": "/products/women/women-rib-top.jpg",
+      "black": "/products/women/women-rib-top.jpg"
+    },
+    "description": "",
+    "brand": "Q Studio",
+    "is_active": true,
+    "stock_qty": 25,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-satin-blouse",
+    "db_id": null,
+    "legacy_id": "women-satin-blouse",
+    "slug": "women-satin-blouse",
+    "title": "Satin Blouse",
+    "category": "Women",
+    "subcategory": "tops",
+    "price": 17,
+    "rating_avg": 4.5,
+    "rating_count": 94,
+    "colors": [
+      "rose",
+      "black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "color_images": {
+      "rose": "/products/women/women-satin-blouse.jpg",
+      "black": "/products/women/women-satin-blouse.jpg"
+    },
+    "description": "",
+    "brand": "Q Line",
+    "is_active": true,
+    "stock_qty": 18,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-knit-sweater",
+    "db_id": null,
+    "legacy_id": "women-knit-sweater",
+    "slug": "women-knit-sweater",
+    "title": "Knit Sweater",
+    "category": "Women",
+    "subcategory": "tops",
+    "price": 11,
+    "rating_avg": 4.7,
+    "rating_count": 201,
+    "colors": [
+      "mint",
+      "charcoal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color_images": {
+      "mint": "/products/women/women-knit-sweater.jpg",
+      "charcoal": "/products/women/women-knit-sweater.jpg"
+    },
+    "description": "",
+    "brand": "Q Basics",
+    "is_active": true,
+    "stock_qty": 22,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-wrap-tee",
+    "db_id": null,
+    "legacy_id": "women-wrap-tee",
+    "slug": "women-wrap-tee",
+    "title": "Wrap Tee",
+    "category": "Women",
+    "subcategory": "tops",
+    "price": 18,
+    "rating_avg": 4.4,
+    "rating_count": 77,
+    "colors": [
+      "white",
+      "navy"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "color_images": {
+      "white": "/products/women/women-wrap-tee.jpg",
+      "navy": "/products/women/women-wrap-tee.jpg"
+    },
+    "description": "",
+    "brand": "Q Everyday",
+    "is_active": true,
+    "stock_qty": 30,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-straight-pants",
+    "db_id": null,
+    "legacy_id": "women-straight-pants",
+    "slug": "women-straight-pants",
+    "title": "Straight Pants",
+    "category": "Women",
+    "subcategory": "pants",
+    "price": 22.49,
+    "rating_avg": 4.6,
+    "rating_count": 112,
+    "colors": [
+      "stone",
+      "black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color_images": {
+      "stone": "/products/women/women-straight-pants.jpg",
+      "black": "/products/women/women-straight-pants.jpg"
+    },
+    "description": "",
+    "brand": "Q Tailored",
+    "is_active": true,
+    "stock_qty": 24,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-wide-pants",
+    "db_id": null,
+    "legacy_id": "women-wide-pants",
+    "slug": "women-wide-pants",
+    "title": "Wide Pants",
+    "category": "Women",
+    "subcategory": "pants",
+    "price": 19,
+    "rating_avg": 4.7,
+    "rating_count": 89,
+    "colors": [
+      "navy"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "color_images": {
+      "navy": "/products/women/women-wide-pants.jpg"
+    },
+    "description": "",
+    "brand": "Q Tailored",
+    "is_active": true,
+    "stock_qty": 16,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-cargo-pants",
+    "db_id": null,
+    "legacy_id": "women-cargo-pants",
+    "slug": "women-cargo-pants",
+    "title": "Cargo Pants",
+    "category": "Women",
+    "subcategory": "pants",
+    "price": 22.99,
+    "rating_avg": 4.3,
+    "rating_count": 63,
+    "colors": [
+      "khaki",
+      "black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "color_images": {
+      "khaki": "/products/women/women-cargo-pants.jpg",
+      "black": "/products/women/women-cargo-pants.jpg"
+    },
+    "description": "",
+    "brand": "Q Street",
+    "is_active": true,
+    "stock_qty": 20,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-active-leggings",
+    "db_id": null,
+    "legacy_id": "women-active-leggings",
+    "slug": "women-active-leggings",
+    "title": "Active Leggings",
+    "category": "Women",
+    "subcategory": "pants",
+    "price": 24.49,
+    "rating_avg": 4.6,
+    "rating_count": 310,
+    "colors": [
+      "graphite"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color_images": {
+      "graphite": "/products/women/women-active-leggings.jpg"
+    },
+    "description": "",
+    "brand": "Q Active",
+    "is_active": true,
+    "stock_qty": 40,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-court-sneakers",
+    "db_id": null,
+    "legacy_id": "women-court-sneakers",
+    "slug": "women-court-sneakers",
+    "title": "Court Sneakers",
+    "category": "Women",
+    "subcategory": "shoes",
+    "price": 19,
+    "rating_avg": 4.5,
+    "rating_count": 51,
+    "colors": [
+      "white",
+      "black"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "color_images": {
+      "white": "/products/women/women-court-sneakers.jpg",
+      "black": "/products/women/women-court-sneakers.jpg"
+    },
+    "description": "",
+    "brand": "Q Footwear",
+    "is_active": true,
+    "stock_qty": 28,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-ankle-boots",
+    "db_id": null,
+    "legacy_id": "women-ankle-boots",
+    "slug": "women-ankle-boots",
+    "title": "Ankle Boots",
+    "category": "Women",
+    "subcategory": "shoes",
+    "price": 19.49,
+    "rating_avg": 4.4,
+    "rating_count": 73,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "color_images": {
+      "black": "/products/women/women-ankle-boots.jpg"
+    },
+    "description": "",
+    "brand": "Q Footwear",
+    "is_active": true,
+    "stock_qty": 14,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-run-shoes",
+    "db_id": null,
+    "legacy_id": "women-run-shoes",
+    "slug": "women-run-shoes",
+    "title": "Run Shoes",
+    "category": "Women",
+    "subcategory": "shoes",
+    "price": 25.49,
+    "rating_avg": 4.6,
+    "rating_count": 142,
+    "colors": [
+      "sand",
+      "black"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "color_images": {
+      "sand": "/products/women/women-run-shoes.jpg",
+      "black": "/products/women/women-run-shoes.jpg"
+    },
+    "description": "",
+    "brand": "Q Active",
+    "is_active": true,
+    "stock_qty": 26,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-denim-jacket",
+    "db_id": null,
+    "legacy_id": "women-denim-jacket",
+    "slug": "women-denim-jacket",
+    "title": "Denim Jacket",
+    "category": "Women",
+    "subcategory": "jackets",
+    "price": 23.99,
+    "rating_avg": 4.5,
+    "rating_count": 98,
+    "colors": [
+      "sky",
+      "white"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "color_images": {
+      "sky": "/products/women/women-denim-jacket.jpg",
+      "white": "/products/women/women-denim-jacket.jpg"
+    },
+    "description": "",
+    "brand": "Q Denim",
+    "is_active": true,
+    "stock_qty": 12,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-puffer-jacket",
+    "db_id": null,
+    "legacy_id": "women-puffer-jacket",
+    "slug": "women-puffer-jacket",
+    "title": "Puffer Jacket",
+    "category": "Women",
+    "subcategory": "jackets",
+    "price": 20.99,
+    "rating_avg": 4.6,
+    "rating_count": 121,
+    "colors": [
+      "charcoal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color_images": {
+      "charcoal": "/products/women/women-puffer-jacket.jpg"
+    },
+    "description": "",
+    "brand": "Q Outerwear",
+    "is_active": true,
+    "stock_qty": 10,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-trench-coat",
+    "db_id": null,
+    "legacy_id": "women-trench-coat",
+    "slug": "women-trench-coat",
+    "title": "Trench Coat",
+    "category": "Women",
+    "subcategory": "jackets",
+    "price": 23.99,
+    "rating_avg": 4.7,
+    "rating_count": 66,
+    "colors": [
+      "stone"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "color_images": {
+      "stone": "/products/women/women-trench-coat.jpg"
+    },
+    "description": "",
+    "brand": "Q Outerwear",
+    "is_active": true,
+    "stock_qty": 9,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-mini-bag",
+    "db_id": null,
+    "legacy_id": "women-mini-bag",
+    "slug": "women-mini-bag",
+    "title": "Mini Bag",
+    "category": "Women",
+    "subcategory": "accessories",
+    "price": 15,
+    "rating_avg": 4.4,
+    "rating_count": 76,
+    "colors": [
+      "tan",
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "tan": "/products/women/women-mini-bag.jpg",
+      "black": "/products/women/women-mini-bag.jpg"
+    },
+    "description": "",
+    "brand": "Q Accessories",
+    "is_active": true,
+    "stock_qty": 35,
+    "_localCatalog": true
+  },
+  {
+    "id": "women-hoop-earrings",
+    "db_id": null,
+    "legacy_id": "women-hoop-earrings",
+    "slug": "women-hoop-earrings",
+    "title": "Hoop Earrings",
+    "category": "Women",
+    "subcategory": "accessories",
+    "price": 17,
+    "rating_avg": 4.3,
+    "rating_count": 54,
+    "colors": [
+      "silver",
+      "gold"
+    ],
+    "sizes": [],
+    "color_images": {
+      "silver": "/products/women/women-hoop-earrings.jpg",
+      "gold": "/products/women/women-hoop-earrings.jpg"
+    },
+    "description": "",
+    "brand": "Q Accessories",
+    "is_active": true,
+    "stock_qty": 60,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-crew-tee",
+    "db_id": null,
+    "legacy_id": "men-crew-tee",
+    "slug": "men-crew-tee",
+    "title": "Crew Tee",
+    "category": "Men",
+    "subcategory": "t-shirts",
+    "price": 16.49,
+    "rating_avg": 4.5,
+    "rating_count": 210,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color_images": {
+      "black": "/products/men/men-crew-tee.jpg",
+      "white": "/products/men/men-crew-tee.jpg"
+    },
+    "description": "",
+    "brand": "Q Essentials",
+    "is_active": true,
+    "stock_qty": 40,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-polo-shirt",
+    "db_id": null,
+    "legacy_id": "men-polo-shirt",
+    "slug": "men-polo-shirt",
+    "title": "Polo Shirt",
+    "category": "Men",
+    "subcategory": "shirts",
+    "price": 21.49,
+    "rating_avg": 4.4,
+    "rating_count": 98,
+    "colors": [
+      "navy",
+      "white"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color_images": {
+      "navy": "/products/men/men-polo-shirt.jpg",
+      "white": "/products/men/men-polo-shirt.jpg"
+    },
+    "description": "",
+    "brand": "Q Essentials",
+    "is_active": true,
+    "stock_qty": 26,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-oxford-shirt",
+    "db_id": null,
+    "legacy_id": "men-oxford-shirt",
+    "slug": "men-oxford-shirt",
+    "title": "Oxford Shirt",
+    "category": "Men",
+    "subcategory": "shirts",
+    "price": 15,
+    "rating_avg": 4.6,
+    "rating_count": 140,
+    "colors": [
+      "sky",
+      "white"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color_images": {
+      "sky": "/products/men/men-oxford-shirt.jpg",
+      "white": "/products/men/men-oxford-shirt.jpg"
+    },
+    "description": "",
+    "brand": "Q Core",
+    "is_active": true,
+    "stock_qty": 18,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-overshirt",
+    "db_id": null,
+    "legacy_id": "men-overshirt",
+    "slug": "men-overshirt",
+    "title": "Overshirt",
+    "category": "Men",
+    "subcategory": "shirts",
+    "price": 15.49,
+    "rating_avg": 4.3,
+    "rating_count": 67,
+    "colors": [
+      "khaki"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color_images": {
+      "khaki": "/products/men/men-overshirt.jpg"
+    },
+    "description": "",
+    "brand": "Q Street",
+    "is_active": true,
+    "stock_qty": 14,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-fleece-hoodie",
+    "db_id": null,
+    "legacy_id": "men-fleece-hoodie",
+    "slug": "men-fleece-hoodie",
+    "title": "Fleece Hoodie",
+    "category": "Men",
+    "subcategory": "hoodies",
+    "price": 21,
+    "rating_avg": 4.3,
+    "rating_count": 88,
+    "colors": [
+      "charcoal",
+      "forest"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "color_images": {
+      "charcoal": "/products/men/men-fleece-hoodie.jpg",
+      "forest": "/products/men/men-fleece-hoodie.jpg"
+    },
+    "description": "",
+    "brand": "Q Core",
+    "is_active": true,
+    "stock_qty": 22,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-zip-hoodie",
+    "db_id": null,
+    "legacy_id": "men-zip-hoodie",
+    "slug": "men-zip-hoodie",
+    "title": "Zip Hoodie",
+    "category": "Men",
+    "subcategory": "hoodies",
+    "price": 23,
+    "rating_avg": 4.4,
+    "rating_count": 105,
+    "colors": [
+      "navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "color_images": {
+      "navy": "/products/men/men-zip-hoodie.jpg"
+    },
+    "description": "",
+    "brand": "Q Core",
+    "is_active": true,
+    "stock_qty": 20,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-denim-jeans",
+    "db_id": null,
+    "legacy_id": "men-denim-jeans",
+    "slug": "men-denim-jeans",
+    "title": "Denim Jeans",
+    "category": "Men",
+    "subcategory": "jeans",
+    "price": 16,
+    "rating_avg": 4.5,
+    "rating_count": 190,
+    "colors": [
+      "midnight"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "color_images": {
+      "midnight": "/products/men/men-denim-jeans.jpg"
+    },
+    "description": "",
+    "brand": "Q Denim",
+    "is_active": true,
+    "stock_qty": 32,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-chino-pants",
+    "db_id": null,
+    "legacy_id": "men-chino-pants",
+    "slug": "men-chino-pants",
+    "title": "Chino Pants",
+    "category": "Men",
+    "subcategory": "pants",
+    "price": 21,
+    "rating_avg": 4.4,
+    "rating_count": 97,
+    "colors": [
+      "khaki",
+      "navy"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "color_images": {
+      "khaki": "/products/men/men-chino-pants.jpg",
+      "navy": "/products/men/men-chino-pants.jpg"
+    },
+    "description": "",
+    "brand": "Q Tailored",
+    "is_active": true,
+    "stock_qty": 28,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-joggers",
+    "db_id": null,
+    "legacy_id": "men-joggers",
+    "slug": "men-joggers",
+    "title": "Joggers",
+    "category": "Men",
+    "subcategory": "pants",
+    "price": 24.49,
+    "rating_avg": 4.3,
+    "rating_count": 84,
+    "colors": [
+      "graphite"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color_images": {
+      "graphite": "/products/men/men-joggers.jpg"
+    },
+    "description": "",
+    "brand": "Q Active",
+    "is_active": true,
+    "stock_qty": 34,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-classic-sneakers",
+    "db_id": null,
+    "legacy_id": "men-classic-sneakers",
+    "slug": "men-classic-sneakers",
+    "title": "Classic Sneakers",
+    "category": "Men",
+    "subcategory": "shoes",
+    "price": 25.99,
+    "rating_avg": 4.5,
+    "rating_count": 133,
+    "colors": [
+      "white",
+      "black"
+    ],
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ],
+    "color_images": {
+      "white": "/products/men/men-classic-sneakers.jpg",
+      "black": "/products/men/men-classic-sneakers.jpg"
+    },
+    "description": "",
+    "brand": "Q Footwear",
+    "is_active": true,
+    "stock_qty": 26,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-leather-boots",
+    "db_id": null,
+    "legacy_id": "men-leather-boots",
+    "slug": "men-leather-boots",
+    "title": "Leather Boots",
+    "category": "Men",
+    "subcategory": "shoes",
+    "price": 24,
+    "rating_avg": 4.4,
+    "rating_count": 75,
+    "colors": [
+      "tan",
+      "black"
+    ],
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "color_images": {
+      "tan": "/products/men/men-leather-boots.jpg",
+      "black": "/products/men/men-leather-boots.jpg"
+    },
+    "description": "",
+    "brand": "Q Footwear",
+    "is_active": true,
+    "stock_qty": 12,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-runner-shoes",
+    "db_id": null,
+    "legacy_id": "men-runner-shoes",
+    "slug": "men-runner-shoes",
+    "title": "Runner Shoes",
+    "category": "Men",
+    "subcategory": "shoes",
+    "price": 25.49,
+    "rating_avg": 4.6,
+    "rating_count": 144,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ],
+    "color_images": {
+      "black": "/products/men/men-runner-shoes.jpg"
+    },
+    "description": "",
+    "brand": "Q Active",
+    "is_active": true,
+    "stock_qty": 18,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-bomber-jacket",
+    "db_id": null,
+    "legacy_id": "men-bomber-jacket",
+    "slug": "men-bomber-jacket",
+    "title": "Bomber Jacket",
+    "category": "Men",
+    "subcategory": "jackets",
+    "price": 25,
+    "rating_avg": 4.4,
+    "rating_count": 91,
+    "colors": [
+      "charcoal"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color_images": {
+      "charcoal": "/products/men/men-bomber-jacket.jpg"
+    },
+    "description": "",
+    "brand": "Q Outerwear",
+    "is_active": true,
+    "stock_qty": 10,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-parka-jacket",
+    "db_id": null,
+    "legacy_id": "men-parka-jacket",
+    "slug": "men-parka-jacket",
+    "title": "Parka Jacket",
+    "category": "Men",
+    "subcategory": "jackets",
+    "price": 29.49,
+    "rating_avg": 4.5,
+    "rating_count": 70,
+    "colors": [
+      "forest"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color_images": {
+      "forest": "/products/men/men-parka-jacket.jpg"
+    },
+    "description": "",
+    "brand": "Q Outerwear",
+    "is_active": true,
+    "stock_qty": 8,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-baseball-cap",
+    "db_id": null,
+    "legacy_id": "men-baseball-cap",
+    "slug": "men-baseball-cap",
+    "title": "Baseball Cap",
+    "category": "Men",
+    "subcategory": "accessories",
+    "price": 9.49,
+    "rating_avg": 4.3,
+    "rating_count": 60,
+    "colors": [
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "black": "/products/men/men-baseball-cap.jpg"
+    },
+    "description": "",
+    "brand": "Q Accessories",
+    "is_active": true,
+    "stock_qty": 55,
+    "_localCatalog": true
+  },
+  {
+    "id": "men-backpack",
+    "db_id": null,
+    "legacy_id": "men-backpack",
+    "slug": "men-backpack",
+    "title": "Backpack",
+    "category": "Men",
+    "subcategory": "accessories",
+    "price": 18.49,
+    "rating_avg": 4.4,
+    "rating_count": 80,
+    "colors": [
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "black": "/products/men/men-backpack.jpg"
+    },
+    "description": "",
+    "brand": "Q Accessories",
+    "is_active": true,
+    "stock_qty": 30,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-tee-set",
+    "db_id": null,
+    "legacy_id": "kids-tee-set",
+    "slug": "kids-tee-set",
+    "title": "Tee Set",
+    "category": "Kids",
+    "subcategory": "sets",
+    "price": 17.49,
+    "rating_avg": 4.6,
+    "rating_count": 90,
+    "colors": [
+      "sky"
+    ],
+    "sizes": [
+      "2-3",
+      "4-5",
+      "6-7",
+      "8-9"
+    ],
+    "color_images": {
+      "sky": "/products/kids/kids-tee-set.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 30,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-hoodie-set",
+    "db_id": null,
+    "legacy_id": "kids-hoodie-set",
+    "slug": "kids-hoodie-set",
+    "title": "Hoodie Set",
+    "category": "Kids",
+    "subcategory": "sets",
+    "price": 18,
+    "rating_avg": 4.5,
+    "rating_count": 74,
+    "colors": [
+      "mint"
+    ],
+    "sizes": [
+      "2-3",
+      "4-5",
+      "6-7",
+      "8-9"
+    ],
+    "color_images": {
+      "mint": "/products/kids/kids-hoodie-set.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 24,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-denim-set",
+    "db_id": null,
+    "legacy_id": "kids-denim-set",
+    "slug": "kids-denim-set",
+    "title": "Denim Set",
+    "category": "Kids",
+    "subcategory": "sets",
+    "price": 18.99,
+    "rating_avg": 4.4,
+    "rating_count": 58,
+    "colors": [
+      "navy"
+    ],
+    "sizes": [
+      "2-3",
+      "4-5",
+      "6-7",
+      "8-9"
+    ],
+    "color_images": {
+      "navy": "/products/kids/kids-denim-set.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 18,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-pajama-set",
+    "db_id": null,
+    "legacy_id": "kids-pajama-set",
+    "slug": "kids-pajama-set",
+    "title": "Pajama Set",
+    "category": "Kids",
+    "subcategory": "sets",
+    "price": 13.49,
+    "rating_avg": 4.7,
+    "rating_count": 120,
+    "colors": [
+      "plum"
+    ],
+    "sizes": [
+      "2-3",
+      "4-5",
+      "6-7",
+      "8-9"
+    ],
+    "color_images": {
+      "plum": "/products/kids/kids-pajama-set.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 40,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-rain-jacket",
+    "db_id": null,
+    "legacy_id": "kids-rain-jacket",
+    "slug": "kids-rain-jacket",
+    "title": "Rain Jacket",
+    "category": "Kids",
+    "subcategory": "jackets",
+    "price": 19.49,
+    "rating_avg": 4.5,
+    "rating_count": 64,
+    "colors": [
+      "gold"
+    ],
+    "sizes": [
+      "2-3",
+      "4-5",
+      "6-7",
+      "8-9"
+    ],
+    "color_images": {
+      "gold": "/products/kids/kids-rain-jacket.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 16,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-puffer-jacket",
+    "db_id": null,
+    "legacy_id": "kids-puffer-jacket",
+    "slug": "kids-puffer-jacket",
+    "title": "Puffer Jacket",
+    "category": "Kids",
+    "subcategory": "jackets",
+    "price": 21.49,
+    "rating_avg": 4.6,
+    "rating_count": 71,
+    "colors": [
+      "rose"
+    ],
+    "sizes": [
+      "2-3",
+      "4-5",
+      "6-7",
+      "8-9"
+    ],
+    "color_images": {
+      "rose": "/products/kids/kids-puffer-jacket.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 14,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-fleece-jacket",
+    "db_id": null,
+    "legacy_id": "kids-fleece-jacket",
+    "slug": "kids-fleece-jacket",
+    "title": "Fleece Jacket",
+    "category": "Kids",
+    "subcategory": "jackets",
+    "price": 21.99,
+    "rating_avg": 4.4,
+    "rating_count": 49,
+    "colors": [
+      "forest"
+    ],
+    "sizes": [
+      "2-3",
+      "4-5",
+      "6-7",
+      "8-9"
+    ],
+    "color_images": {
+      "forest": "/products/kids/kids-fleece-jacket.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 20,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-windbreaker",
+    "db_id": null,
+    "legacy_id": "kids-windbreaker",
+    "slug": "kids-windbreaker",
+    "title": "Windbreaker",
+    "category": "Kids",
+    "subcategory": "jackets",
+    "price": 22.49,
+    "rating_avg": 4.3,
+    "rating_count": 41,
+    "colors": [
+      "navy"
+    ],
+    "sizes": [
+      "2-3",
+      "4-5",
+      "6-7",
+      "8-9"
+    ],
+    "color_images": {
+      "navy": "/products/kids/kids-windbreaker.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 18,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-sneakers",
+    "db_id": null,
+    "legacy_id": "kids-sneakers",
+    "slug": "kids-sneakers",
+    "title": "Kids Sneakers",
+    "category": "Kids",
+    "subcategory": "shoes",
+    "price": 16.49,
+    "rating_avg": 4.6,
+    "rating_count": 85,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "color_images": {
+      "white": "/products/kids/kids-sneakers.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 22,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-sandals",
+    "db_id": null,
+    "legacy_id": "kids-sandals",
+    "slug": "kids-sandals",
+    "title": "Kids Sandals",
+    "category": "Kids",
+    "subcategory": "shoes",
+    "price": 14,
+    "rating_avg": 4.4,
+    "rating_count": 37,
+    "colors": [
+      "sand"
+    ],
+    "sizes": [
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "color_images": {
+      "sand": "/products/kids/kids-sandals.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 20,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-boots",
+    "db_id": null,
+    "legacy_id": "kids-boots",
+    "slug": "kids-boots",
+    "title": "Kids Boots",
+    "category": "Kids",
+    "subcategory": "shoes",
+    "price": 17.99,
+    "rating_avg": 4.5,
+    "rating_count": 40,
+    "colors": [
+      "tan"
+    ],
+    "sizes": [
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "color_images": {
+      "tan": "/products/kids/kids-boots.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 14,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-trainers",
+    "db_id": null,
+    "legacy_id": "kids-trainers",
+    "slug": "kids-trainers",
+    "title": "Kids Trainers",
+    "category": "Kids",
+    "subcategory": "shoes",
+    "price": 18.49,
+    "rating_avg": 4.4,
+    "rating_count": 52,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "color_images": {
+      "black": "/products/kids/kids-trainers.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 18,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-undershirt-pack",
+    "db_id": null,
+    "legacy_id": "kids-undershirt-pack",
+    "slug": "kids-undershirt-pack",
+    "title": "Undershirt Pack",
+    "category": "Kids",
+    "subcategory": "inners",
+    "price": 8.49,
+    "rating_avg": 4.3,
+    "rating_count": 29,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "2-3",
+      "4-5",
+      "6-7",
+      "8-9"
+    ],
+    "color_images": {
+      "white": "/products/kids/kids-undershirt-pack.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 50,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-socks-pack",
+    "db_id": null,
+    "legacy_id": "kids-socks-pack",
+    "slug": "kids-socks-pack",
+    "title": "Socks Pack",
+    "category": "Kids",
+    "subcategory": "inners",
+    "price": 9.99,
+    "rating_avg": 4.4,
+    "rating_count": 35,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "2-3",
+      "4-5",
+      "6-7",
+      "8-9"
+    ],
+    "color_images": {
+      "silver": "/products/kids/kids-socks-pack.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 80,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-thermal-set",
+    "db_id": null,
+    "legacy_id": "kids-thermal-set",
+    "slug": "kids-thermal-set",
+    "title": "Thermal Set",
+    "category": "Kids",
+    "subcategory": "inners",
+    "price": 10.99,
+    "rating_avg": 4.5,
+    "rating_count": 46,
+    "colors": [
+      "charcoal"
+    ],
+    "sizes": [
+      "2-3",
+      "4-5",
+      "6-7",
+      "8-9"
+    ],
+    "color_images": {
+      "charcoal": "/products/kids/kids-thermal-set.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 28,
+    "_localCatalog": true
+  },
+  {
+    "id": "kids-beanie",
+    "db_id": null,
+    "legacy_id": "kids-beanie",
+    "slug": "kids-beanie",
+    "title": "Kids Beanie",
+    "category": "Kids",
+    "subcategory": "inners",
+    "price": 6.99,
+    "rating_avg": 4.2,
+    "rating_count": 22,
+    "colors": [
+      "navy"
+    ],
+    "sizes": [],
+    "color_images": {
+      "navy": "/products/kids/kids-beanie.jpg"
+    },
+    "description": "",
+    "brand": "Q Kids",
+    "is_active": true,
+    "stock_qty": 45,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-smartphone",
+    "db_id": null,
+    "legacy_id": "electronics-smartphone",
+    "slug": "electronics-smartphone",
+    "title": "Smartphone",
+    "category": "Electronics",
+    "subcategory": "phones",
+    "price": 28.99,
+    "rating_avg": 4.5,
+    "rating_count": 520,
+    "colors": [
+      "black",
+      "silver"
+    ],
+    "sizes": [],
+    "color_images": {
+      "black": "/products/electronics/electronics-smartphone.jpg",
+      "silver": "/products/electronics/electronics-smartphone.jpg"
+    },
+    "description": "",
+    "brand": "Q Mobile",
+    "is_active": true,
+    "stock_qty": 15,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-phone-case",
+    "db_id": null,
+    "legacy_id": "electronics-phone-case",
+    "slug": "electronics-phone-case",
+    "title": "Phone Case",
+    "category": "Electronics",
+    "subcategory": "accessories",
+    "price": 9,
+    "rating_avg": 4.3,
+    "rating_count": 210,
+    "colors": [
+      "clear",
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "clear": "/products/electronics/electronics-phone-case.jpg",
+      "black": "/products/electronics/electronics-phone-case.jpg"
+    },
+    "description": "",
+    "brand": "Q Mobile",
+    "is_active": true,
+    "stock_qty": 70,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-laptop",
+    "db_id": null,
+    "legacy_id": "electronics-laptop",
+    "slug": "electronics-laptop",
+    "title": "Laptop",
+    "category": "Electronics",
+    "subcategory": "computers",
+    "price": 28,
+    "rating_avg": 4.6,
+    "rating_count": 340,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [],
+    "color_images": {
+      "silver": "/products/electronics/electronics-laptop.jpg"
+    },
+    "description": "",
+    "brand": "Q Tech",
+    "is_active": true,
+    "stock_qty": 9,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-earbuds",
+    "db_id": null,
+    "legacy_id": "electronics-earbuds",
+    "slug": "electronics-earbuds",
+    "title": "Wireless Earbuds",
+    "category": "Electronics",
+    "subcategory": "audio",
+    "price": 18.99,
+    "rating_avg": 4.4,
+    "rating_count": 410,
+    "colors": [
+      "white",
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "white": "/products/electronics/electronics-earbuds.jpg",
+      "black": "/products/electronics/electronics-earbuds.jpg"
+    },
+    "description": "",
+    "brand": "Q Audio",
+    "is_active": true,
+    "stock_qty": 25,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-headphones",
+    "db_id": null,
+    "legacy_id": "electronics-headphones",
+    "slug": "electronics-headphones",
+    "title": "Headphones",
+    "category": "Electronics",
+    "subcategory": "audio",
+    "price": 27.49,
+    "rating_avg": 4.5,
+    "rating_count": 280,
+    "colors": [
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "black": "/products/electronics/electronics-headphones.jpg"
+    },
+    "description": "",
+    "brand": "Q Audio",
+    "is_active": true,
+    "stock_qty": 20,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-smartwatch",
+    "db_id": null,
+    "legacy_id": "electronics-smartwatch",
+    "slug": "electronics-smartwatch",
+    "title": "Smartwatch",
+    "category": "Electronics",
+    "subcategory": "wearables",
+    "price": 28,
+    "rating_avg": 4.3,
+    "rating_count": 190,
+    "colors": [
+      "black",
+      "silver"
+    ],
+    "sizes": [],
+    "color_images": {
+      "black": "/products/electronics/electronics-smartwatch.jpg",
+      "silver": "/products/electronics/electronics-smartwatch.jpg"
+    },
+    "description": "",
+    "brand": "Q Tech",
+    "is_active": true,
+    "stock_qty": 16,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-tablet",
+    "db_id": null,
+    "legacy_id": "electronics-tablet",
+    "slug": "electronics-tablet",
+    "title": "Tablet",
+    "category": "Electronics",
+    "subcategory": "tablets",
+    "price": 27,
+    "rating_avg": 4.5,
+    "rating_count": 210,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [],
+    "color_images": {
+      "silver": "/products/electronics/electronics-tablet.jpg"
+    },
+    "description": "",
+    "brand": "Q Tech",
+    "is_active": true,
+    "stock_qty": 12,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-speaker",
+    "db_id": null,
+    "legacy_id": "electronics-speaker",
+    "slug": "electronics-speaker",
+    "title": "Speaker",
+    "category": "Electronics",
+    "subcategory": "audio",
+    "price": 23.49,
+    "rating_avg": 4.4,
+    "rating_count": 160,
+    "colors": [
+      "charcoal"
+    ],
+    "sizes": [],
+    "color_images": {
+      "charcoal": "/products/electronics/electronics-speaker.jpg"
+    },
+    "description": "",
+    "brand": "Q Audio",
+    "is_active": true,
+    "stock_qty": 24,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-gaming-mouse",
+    "db_id": null,
+    "legacy_id": "electronics-gaming-mouse",
+    "slug": "electronics-gaming-mouse",
+    "title": "Gaming Mouse",
+    "category": "Electronics",
+    "subcategory": "accessories",
+    "price": 9.99,
+    "rating_avg": 4.4,
+    "rating_count": 140,
+    "colors": [
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "black": "/products/electronics/electronics-gaming-mouse.jpg"
+    },
+    "description": "",
+    "brand": "Q Tech",
+    "is_active": true,
+    "stock_qty": 35,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-keyboard",
+    "db_id": null,
+    "legacy_id": "electronics-keyboard",
+    "slug": "electronics-keyboard",
+    "title": "Keyboard",
+    "category": "Electronics",
+    "subcategory": "accessories",
+    "price": 12.49,
+    "rating_avg": 4.3,
+    "rating_count": 120,
+    "colors": [
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "black": "/products/electronics/electronics-keyboard.jpg"
+    },
+    "description": "",
+    "brand": "Q Tech",
+    "is_active": true,
+    "stock_qty": 30,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-usb-hub",
+    "db_id": null,
+    "legacy_id": "electronics-usb-hub",
+    "slug": "electronics-usb-hub",
+    "title": "USB-C Hub",
+    "category": "Electronics",
+    "subcategory": "accessories",
+    "price": 15.49,
+    "rating_avg": 4.2,
+    "rating_count": 95,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [],
+    "color_images": {
+      "silver": "/products/electronics/electronics-usb-hub.jpg"
+    },
+    "description": "",
+    "brand": "Q Tech",
+    "is_active": true,
+    "stock_qty": 60,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-power-bank",
+    "db_id": null,
+    "legacy_id": "electronics-power-bank",
+    "slug": "electronics-power-bank",
+    "title": "Power Bank",
+    "category": "Electronics",
+    "subcategory": "accessories",
+    "price": 11.49,
+    "rating_avg": 4.4,
+    "rating_count": 230,
+    "colors": [
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "black": "/products/electronics/electronics-power-bank.jpg"
+    },
+    "description": "",
+    "brand": "Q Mobile",
+    "is_active": true,
+    "stock_qty": 50,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-action-camera",
+    "db_id": null,
+    "legacy_id": "electronics-action-camera",
+    "slug": "electronics-action-camera",
+    "title": "Action Camera",
+    "category": "Electronics",
+    "subcategory": "cameras",
+    "price": 24.49,
+    "rating_avg": 4.3,
+    "rating_count": 110,
+    "colors": [
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "black": "/products/electronics/electronics-action-camera.jpg"
+    },
+    "description": "",
+    "brand": "Q Tech",
+    "is_active": true,
+    "stock_qty": 14,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-monitor",
+    "db_id": null,
+    "legacy_id": "electronics-monitor",
+    "slug": "electronics-monitor",
+    "title": "Monitor",
+    "category": "Electronics",
+    "subcategory": "computers",
+    "price": 28.99,
+    "rating_avg": 4.5,
+    "rating_count": 130,
+    "colors": [
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "black": "/products/electronics/electronics-monitor.jpg"
+    },
+    "description": "",
+    "brand": "Q Tech",
+    "is_active": true,
+    "stock_qty": 8,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-router",
+    "db_id": null,
+    "legacy_id": "electronics-router",
+    "slug": "electronics-router",
+    "title": "Wi‑Fi Router",
+    "category": "Electronics",
+    "subcategory": "network",
+    "price": 21.99,
+    "rating_avg": 4.2,
+    "rating_count": 70,
+    "colors": [
+      "white"
+    ],
+    "sizes": [],
+    "color_images": {
+      "white": "/products/electronics/electronics-router.jpg"
+    },
+    "description": "",
+    "brand": "Q Tech",
+    "is_active": true,
+    "stock_qty": 20,
+    "_localCatalog": true
+  },
+  {
+    "id": "electronics-webcam",
+    "db_id": null,
+    "legacy_id": "electronics-webcam",
+    "slug": "electronics-webcam",
+    "title": "Webcam",
+    "category": "Electronics",
+    "subcategory": "accessories",
+    "price": 16,
+    "rating_avg": 4.1,
+    "rating_count": 60,
+    "colors": [
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "black": "/products/electronics/electronics-webcam.jpg"
+    },
+    "description": "",
+    "brand": "Q Tech",
+    "is_active": true,
+    "stock_qty": 28,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-table-lamp",
+    "db_id": null,
+    "legacy_id": "home-table-lamp",
+    "slug": "home-table-lamp",
+    "title": "Table Lamp",
+    "category": "Home & Living",
+    "subcategory": "lighting",
+    "price": 16.99,
+    "rating_avg": 4.5,
+    "rating_count": 88,
+    "colors": [
+      "white"
+    ],
+    "sizes": [],
+    "color_images": {
+      "white": "/products/home-living/home-table-lamp.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 18,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-floor-lamp",
+    "db_id": null,
+    "legacy_id": "home-floor-lamp",
+    "slug": "home-floor-lamp",
+    "title": "Floor Lamp",
+    "category": "Home & Living",
+    "subcategory": "lighting",
+    "price": 22.99,
+    "rating_avg": 4.4,
+    "rating_count": 64,
+    "colors": [
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "black": "/products/home-living/home-floor-lamp.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 10,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-throw-pillow",
+    "db_id": null,
+    "legacy_id": "home-throw-pillow",
+    "slug": "home-throw-pillow",
+    "title": "Throw Pillow",
+    "category": "Home & Living",
+    "subcategory": "decor",
+    "price": 14.99,
+    "rating_avg": 4.6,
+    "rating_count": 102,
+    "colors": [
+      "cream"
+    ],
+    "sizes": [],
+    "color_images": {
+      "cream": "/products/home-living/home-throw-pillow.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 40,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-soft-blanket",
+    "db_id": null,
+    "legacy_id": "home-soft-blanket",
+    "slug": "home-soft-blanket",
+    "title": "Soft Blanket",
+    "category": "Home & Living",
+    "subcategory": "bedding",
+    "price": 19.49,
+    "rating_avg": 4.7,
+    "rating_count": 120,
+    "colors": [
+      "sage"
+    ],
+    "sizes": [],
+    "color_images": {
+      "sage": "/products/home-living/home-soft-blanket.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 26,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-bedding-set",
+    "db_id": null,
+    "legacy_id": "home-bedding-set",
+    "slug": "home-bedding-set",
+    "title": "Bedding Set",
+    "category": "Home & Living",
+    "subcategory": "bedding",
+    "price": 25.99,
+    "rating_avg": 4.5,
+    "rating_count": 90,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "Single",
+      "Double",
+      "King"
+    ],
+    "color_images": {
+      "white": "/products/home-living/home-bedding-set.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 14,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-towel-set",
+    "db_id": null,
+    "legacy_id": "home-towel-set",
+    "slug": "home-towel-set",
+    "title": "Towel Set",
+    "category": "Home & Living",
+    "subcategory": "bath",
+    "price": 22.99,
+    "rating_avg": 4.4,
+    "rating_count": 80,
+    "colors": [
+      "sand"
+    ],
+    "sizes": [],
+    "color_images": {
+      "sand": "/products/home-living/home-towel-set.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 30,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-ceramic-vase",
+    "db_id": null,
+    "legacy_id": "home-ceramic-vase",
+    "slug": "home-ceramic-vase",
+    "title": "Ceramic Vase",
+    "category": "Home & Living",
+    "subcategory": "decor",
+    "price": 12.99,
+    "rating_avg": 4.5,
+    "rating_count": 72,
+    "colors": [
+      "stone"
+    ],
+    "sizes": [],
+    "color_images": {
+      "stone": "/products/home-living/home-ceramic-vase.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 22,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-wall-art",
+    "db_id": null,
+    "legacy_id": "home-wall-art",
+    "slug": "home-wall-art",
+    "title": "Wall Art",
+    "category": "Home & Living",
+    "subcategory": "decor",
+    "price": 17.99,
+    "rating_avg": 4.3,
+    "rating_count": 55,
+    "colors": [
+      "white"
+    ],
+    "sizes": [],
+    "color_images": {
+      "white": "/products/home-living/home-wall-art.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 16,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-cutting-board",
+    "db_id": null,
+    "legacy_id": "home-cutting-board",
+    "slug": "home-cutting-board",
+    "title": "Cutting Board",
+    "category": "Home & Living",
+    "subcategory": "kitchen",
+    "price": 14.49,
+    "rating_avg": 4.6,
+    "rating_count": 140,
+    "colors": [
+      "tan"
+    ],
+    "sizes": [],
+    "color_images": {
+      "tan": "/products/home-living/home-cutting-board.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 40,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-cookware-set",
+    "db_id": null,
+    "legacy_id": "home-cookware-set",
+    "slug": "home-cookware-set",
+    "title": "Cookware Set",
+    "category": "Home & Living",
+    "subcategory": "kitchen",
+    "price": 13.49,
+    "rating_avg": 4.5,
+    "rating_count": 98,
+    "colors": [
+      "graphite"
+    ],
+    "sizes": [],
+    "color_images": {
+      "graphite": "/products/home-living/home-cookware-set.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 12,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-coffee-maker",
+    "db_id": null,
+    "legacy_id": "home-coffee-maker",
+    "slug": "home-coffee-maker",
+    "title": "Coffee Maker",
+    "category": "Home & Living",
+    "subcategory": "kitchen",
+    "price": 27.49,
+    "rating_avg": 4.4,
+    "rating_count": 110,
+    "colors": [
+      "black"
+    ],
+    "sizes": [],
+    "color_images": {
+      "black": "/products/home-living/home-coffee-maker.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 10,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-storage-basket",
+    "db_id": null,
+    "legacy_id": "home-storage-basket",
+    "slug": "home-storage-basket",
+    "title": "Storage Basket",
+    "category": "Home & Living",
+    "subcategory": "storage",
+    "price": 11.99,
+    "rating_avg": 4.3,
+    "rating_count": 65,
+    "colors": [
+      "tan"
+    ],
+    "sizes": [],
+    "color_images": {
+      "tan": "/products/home-living/home-storage-basket.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 30,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-desk-chair",
+    "db_id": null,
+    "legacy_id": "home-desk-chair",
+    "slug": "home-desk-chair",
+    "title": "Desk Chair",
+    "category": "Home & Living",
+    "subcategory": "furniture",
+    "price": 22.49,
+    "rating_avg": 4.4,
+    "rating_count": 80,
+    "colors": [
+      "charcoal"
+    ],
+    "sizes": [],
+    "color_images": {
+      "charcoal": "/products/home-living/home-desk-chair.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 8,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-side-table",
+    "db_id": null,
+    "legacy_id": "home-side-table",
+    "slug": "home-side-table",
+    "title": "Side Table",
+    "category": "Home & Living",
+    "subcategory": "furniture",
+    "price": 21.99,
+    "rating_avg": 4.3,
+    "rating_count": 70,
+    "colors": [
+      "stone"
+    ],
+    "sizes": [],
+    "color_images": {
+      "stone": "/products/home-living/home-side-table.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 10,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-plant-pot",
+    "db_id": null,
+    "legacy_id": "home-plant-pot",
+    "slug": "home-plant-pot",
+    "title": "Plant Pot",
+    "category": "Home & Living",
+    "subcategory": "decor",
+    "price": 9.49,
+    "rating_avg": 4.5,
+    "rating_count": 92,
+    "colors": [
+      "mint"
+    ],
+    "sizes": [],
+    "color_images": {
+      "mint": "/products/home-living/home-plant-pot.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 28,
+    "_localCatalog": true
+  },
+  {
+    "id": "home-scent-candle",
+    "db_id": null,
+    "legacy_id": "home-scent-candle",
+    "slug": "home-scent-candle",
+    "title": "Scent Candle",
+    "category": "Home & Living",
+    "subcategory": "decor",
+    "price": 13.49,
+    "rating_avg": 4.6,
+    "rating_count": 105,
+    "colors": [
+      "cream"
+    ],
+    "sizes": [],
+    "color_images": {
+      "cream": "/products/home-living/home-scent-candle.jpg"
+    },
+    "description": "",
+    "brand": "Q Home",
+    "is_active": true,
+    "stock_qty": 45,
+    "_localCatalog": true
+  }
+]

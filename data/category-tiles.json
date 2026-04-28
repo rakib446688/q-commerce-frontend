@@ -1,0 +1,7 @@
+[
+  { "category": "Women", "label": "WOMEN", "slug": "women", "query": "women clothing photo" },
+  { "category": "Men", "label": "MEN", "slug": "men", "query": "men clothing photo" },
+  { "category": "Kids", "label": "KIDS", "slug": "kids", "query": "children clothing photo" },
+  { "category": "Electronics", "label": "ELECTRONICS", "slug": "electronics", "query": "electronics devices photo" },
+  { "category": "Home & Living", "label": "HOME & LIVING", "slug": "home-living", "query": "home interior photo" }
+]

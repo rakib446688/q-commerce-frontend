@@ -1,0 +1,232 @@
+[
+  {
+    "slug": "men-crew-tee",
+    "title": "Crew Tee",
+    "category": "Men",
+    "subcategory": "t-shirts",
+    "brand": "Q Essentials",
+    "rating_avg": 4.5,
+    "rating_count": 210,
+    "stock_qty": 40,
+    "colors": ["black", "white"],
+    "sizes": ["S", "M", "L", "XL"],
+    "image_variants": [
+      { "color": "black", "query": "men black crew t-shirt product photo" },
+      { "color": "white", "query": "men white crew t-shirt product photo" }
+    ]
+  },
+  {
+    "slug": "men-polo-shirt",
+    "title": "Polo Shirt",
+    "category": "Men",
+    "subcategory": "shirts",
+    "brand": "Q Essentials",
+    "rating_avg": 4.4,
+    "rating_count": 98,
+    "stock_qty": 26,
+    "colors": ["navy", "white"],
+    "sizes": ["S", "M", "L", "XL"],
+    "image_variants": [
+      { "color": "navy", "query": "men navy polo shirt product photo" },
+      { "color": "white", "query": "men white polo shirt product photo" }
+    ]
+  },
+  {
+    "slug": "men-oxford-shirt",
+    "title": "Oxford Shirt",
+    "category": "Men",
+    "subcategory": "shirts",
+    "brand": "Q Core",
+    "rating_avg": 4.6,
+    "rating_count": 140,
+    "stock_qty": 18,
+    "colors": ["sky", "white"],
+    "sizes": ["S", "M", "L", "XL"],
+    "image_variants": [
+      { "color": "sky", "query": "men light blue oxford shirt product photo" },
+      { "color": "white", "query": "men white oxford shirt product photo" }
+    ]
+  },
+  {
+    "slug": "men-overshirt",
+    "title": "Overshirt",
+    "category": "Men",
+    "subcategory": "shirts",
+    "brand": "Q Street",
+    "rating_avg": 4.3,
+    "rating_count": 67,
+    "stock_qty": 14,
+    "colors": ["khaki"],
+    "sizes": ["S", "M", "L", "XL"],
+    "image_variants": [{ "color": "khaki", "query": "men khaki overshirt product photo" }]
+  },
+  {
+    "slug": "men-fleece-hoodie",
+    "title": "Fleece Hoodie",
+    "category": "Men",
+    "subcategory": "hoodies",
+    "brand": "Q Core",
+    "rating_avg": 4.3,
+    "rating_count": 88,
+    "stock_qty": 22,
+    "colors": ["charcoal", "forest"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image_variants": [
+      { "color": "charcoal", "query": "men charcoal hoodie product photo" },
+      { "color": "forest", "query": "men green hoodie product photo" }
+    ]
+  },
+  {
+    "slug": "men-zip-hoodie",
+    "title": "Zip Hoodie",
+    "category": "Men",
+    "subcategory": "hoodies",
+    "brand": "Q Core",
+    "rating_avg": 4.4,
+    "rating_count": 105,
+    "stock_qty": 20,
+    "colors": ["navy"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image_variants": [{ "color": "navy", "query": "men navy zip hoodie product photo" }]
+  },
+  {
+    "slug": "men-denim-jeans",
+    "title": "Denim Jeans",
+    "category": "Men",
+    "subcategory": "jeans",
+    "brand": "Q Denim",
+    "rating_avg": 4.5,
+    "rating_count": 190,
+    "stock_qty": 32,
+    "colors": ["midnight"],
+    "sizes": ["30", "32", "34", "36"],
+    "image_variants": [{ "color": "midnight", "query": "men dark blue jeans product photo" }]
+  },
+  {
+    "slug": "men-chino-pants",
+    "title": "Chino Pants",
+    "category": "Men",
+    "subcategory": "pants",
+    "brand": "Q Tailored",
+    "rating_avg": 4.4,
+    "rating_count": 97,
+    "stock_qty": 28,
+    "colors": ["khaki", "navy"],
+    "sizes": ["30", "32", "34", "36"],
+    "image_variants": [
+      { "color": "khaki", "query": "men khaki chinos product photo" },
+      { "color": "navy", "query": "men navy chinos product photo" }
+    ]
+  },
+  {
+    "slug": "men-joggers",
+    "title": "Joggers",
+    "category": "Men",
+    "subcategory": "pants",
+    "brand": "Q Active",
+    "rating_avg": 4.3,
+    "rating_count": 84,
+    "stock_qty": 34,
+    "colors": ["graphite"],
+    "sizes": ["S", "M", "L", "XL"],
+    "image_variants": [{ "color": "graphite", "query": "men grey joggers product photo" }]
+  },
+  {
+    "slug": "men-classic-sneakers",
+    "title": "Classic Sneakers",
+    "category": "Men",
+    "subcategory": "shoes",
+    "brand": "Q Footwear",
+    "rating_avg": 4.5,
+    "rating_count": 133,
+    "stock_qty": 26,
+    "colors": ["white", "black"],
+    "sizes": ["40", "41", "42", "43", "44", "45"],
+    "image_variants": [
+      { "color": "white", "query": "men white sneakers product photo" },
+      { "color": "black", "query": "men black sneakers product photo" }
+    ]
+  },
+  {
+    "slug": "men-leather-boots",
+    "title": "Leather Boots",
+    "category": "Men",
+    "subcategory": "shoes",
+    "brand": "Q Footwear",
+    "rating_avg": 4.4,
+    "rating_count": 75,
+    "stock_qty": 12,
+    "colors": ["tan", "black"],
+    "sizes": ["40", "41", "42", "43", "44"],
+    "image_variants": [
+      { "color": "tan", "query": "men brown leather boots product photo" },
+      { "color": "black", "query": "men black leather boots product photo" }
+    ]
+  },
+  {
+    "slug": "men-runner-shoes",
+    "title": "Runner Shoes",
+    "category": "Men",
+    "subcategory": "shoes",
+    "brand": "Q Active",
+    "rating_avg": 4.6,
+    "rating_count": 144,
+    "stock_qty": 18,
+    "colors": ["black"],
+    "sizes": ["40", "41", "42", "43", "44", "45"],
+    "image_variants": [{ "color": "black", "query": "men black running shoes product photo" }]
+  },
+  {
+    "slug": "men-bomber-jacket",
+    "title": "Bomber Jacket",
+    "category": "Men",
+    "subcategory": "jackets",
+    "brand": "Q Outerwear",
+    "rating_avg": 4.4,
+    "rating_count": 91,
+    "stock_qty": 10,
+    "colors": ["charcoal"],
+    "sizes": ["S", "M", "L", "XL"],
+    "image_variants": [{ "color": "charcoal", "query": "men charcoal bomber jacket photo" }]
+  },
+  {
+    "slug": "men-parka-jacket",
+    "title": "Parka Jacket",
+    "category": "Men",
+    "subcategory": "jackets",
+    "brand": "Q Outerwear",
+    "rating_avg": 4.5,
+    "rating_count": 70,
+    "stock_qty": 8,
+    "colors": ["forest"],
+    "sizes": ["S", "M", "L", "XL"],
+    "image_variants": [{ "color": "forest", "query": "men green parka jacket photo" }]
+  },
+  {
+    "slug": "men-baseball-cap",
+    "title": "Baseball Cap",
+    "category": "Men",
+    "subcategory": "accessories",
+    "brand": "Q Accessories",
+    "rating_avg": 4.3,
+    "rating_count": 60,
+    "stock_qty": 55,
+    "colors": ["black"],
+    "sizes": [],
+    "image_variants": [{ "color": "black", "query": "black baseball cap product photo" }]
+  },
+  {
+    "slug": "men-backpack",
+    "title": "Backpack",
+    "category": "Men",
+    "subcategory": "accessories",
+    "brand": "Q Accessories",
+    "rating_avg": 4.4,
+    "rating_count": 80,
+    "stock_qty": 30,
+    "colors": ["black"],
+    "sizes": [],
+    "image_variants": [{ "color": "black", "query": "black backpack product photo" }]
+  }
+]
+

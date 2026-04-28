@@ -1,0 +1,645 @@
+[
+  {
+    "category": "Women",
+    "label": "WOMEN",
+    "slug": "women",
+    "query": "women clothing photo",
+    "file": "women.jpg",
+    "webPath": "/categories/women.jpg",
+    "source": {
+      "id": "a2d52141-29d6-4eda-aa37-a96f21cf97f5",
+      "title": "View of Main Street looking north from the top of a building near 6th Street, Los Angeles, ca.1917 (CHS-5723)",
+      "indexed_on": "2020-03-28T03:35:31.697805Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/50398299@N08/16680001602",
+      "url": "https://live.staticflickr.com/8622/16680001602_06f85a7778_b.jpg",
+      "creator": "Fæ",
+      "creator_url": "https://www.flickr.com/photos/50398299@N08",
+      "license": "pdm",
+      "license_version": "1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "californiahistoricalsocietycollection18601960",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "glassplatenegatives",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "losangelesinthe1910s",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "mainstreetlosangeles",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "rosslynhotel",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "wikimediacommons",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"View of Main Street looking north from the top of a building near 6th Street, Los Angeles, ca.1917 (CHS-5723)\" by Fæ is marked with Public Domain Mark 1.0. To view the terms, visit https://creativecommons.org/publicdomain/mark/1.0/.",
+      "fields_matched": [
+        "description"
+      ],
+      "mature": false,
+      "height": 830,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/a2d52141-29d6-4eda-aa37-a96f21cf97f5/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/a2d52141-29d6-4eda-aa37-a96f21cf97f5/",
+      "related_url": "https://api.openverse.org/v1/images/a2d52141-29d6-4eda-aa37-a96f21cf97f5/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  {
+    "category": "Men",
+    "label": "MEN",
+    "slug": "men",
+    "query": "men clothing photo",
+    "file": "men.jpg",
+    "webPath": "/categories/men.jpg",
+    "source": {
+      "id": "c7b6dd22-e918-4b66-b88b-f01a23731a52",
+      "title": "Camp Gap Ranch",
+      "indexed_on": "2020-03-19T19:23:24.438647Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/50169152@N06/32889271735",
+      "url": "https://live.staticflickr.com/431/32889271735_2f937cc2e9_b.jpg",
+      "creator": "BLM Oregon & Washington",
+      "creator_url": "https://www.flickr.com/photos/50169152@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "1930s",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "1934",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "blm",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "buildings",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "bureauoflandmanagement",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "burns",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "camp",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "ccc",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "civilianconservationcorps",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "gap",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "gapranch",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "harney",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "hines",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "historic",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "history",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "landscape",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "nationalregister",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "oregon",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "ranch",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "roosevelt",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"Camp Gap Ranch\" by BLM Oregon & Washington is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description"
+      ],
+      "mature": false,
+      "height": 1024,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/c7b6dd22-e918-4b66-b88b-f01a23731a52/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/c7b6dd22-e918-4b66-b88b-f01a23731a52/",
+      "related_url": "https://api.openverse.org/v1/images/c7b6dd22-e918-4b66-b88b-f01a23731a52/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  {
+    "category": "Kids",
+    "label": "KIDS",
+    "slug": "kids",
+    "query": "children clothing photo",
+    "file": "kids.jpg",
+    "webPath": "/categories/kids.jpg",
+    "source": {
+      "id": "19080fea-9dd3-48b3-8292-6c74149111f5",
+      "title": "expat auswandern Malaysia Shopping Malls KL The Curve street",
+      "indexed_on": "2016-11-16T20:25:03.169923Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/35470197@N08/3995641512",
+      "url": "https://live.staticflickr.com/2594/3995641512_fe22c05a55_b.jpg",
+      "creator": "Conny Sandland",
+      "creator_url": "https://www.flickr.com/photos/35470197@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": 258040,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "diningmalaysia",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "europeanstylemalaysia",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "expat",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "expatinkualalumpur",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "kualalumpur",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "living",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "malaysia",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "mutiaradamansara",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "petalingjaya",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "restaurantsmalaysia",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "shoppingmall",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "thecurve",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "architecture",
+          "accuracy": 0.9808,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "building",
+          "accuracy": 0.92045,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "business",
+          "accuracy": 0.9467,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "city",
+          "accuracy": 0.96791,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "daylight",
+          "accuracy": 0.90105,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "hotel",
+          "accuracy": 0.92064,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "modern",
+          "accuracy": 0.93484,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "outdoors",
+          "accuracy": 0.93728,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "shop",
+          "accuracy": 0.90609,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "shopping",
+          "accuracy": 0.98366,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "stock",
+          "accuracy": 0.96087,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "street",
+          "accuracy": 0.97734,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "travel",
+          "accuracy": 0.94457,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "urban",
+          "accuracy": 0.95595,
+          "unstable__provider": "clarifai"
+        }
+      ],
+      "attribution": "\"expat auswandern Malaysia Shopping Malls KL The Curve street\" by Conny Sandland is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 768,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/19080fea-9dd3-48b3-8292-6c74149111f5/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/19080fea-9dd3-48b3-8292-6c74149111f5/",
+      "related_url": "https://api.openverse.org/v1/images/19080fea-9dd3-48b3-8292-6c74149111f5/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  {
+    "category": "Electronics",
+    "label": "ELECTRONICS",
+    "slug": "electronics",
+    "query": "electronics devices photo",
+    "file": "electronics.jpg",
+    "webPath": "/categories/electronics.jpg",
+    "source": {
+      "id": "1e1ea798-b47f-4a80-979c-a1b88df95c55",
+      "title": "Keysight Technologies",
+      "indexed_on": "2020-04-06T00:38:21.072840Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/128772740@N08/15641317008",
+      "url": "https://live.staticflickr.com/7501/15641317008_cb4d3dea43_b.jpg",
+      "creator": "elektorlabs",
+      "creator_url": "https://www.flickr.com/photos/128772740@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "electronics",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "elektor",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "airport",
+          "accuracy": 0.98098,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "business",
+          "accuracy": 0.99515,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "commerce",
+          "accuracy": 0.90344,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "contemporary",
+          "accuracy": 0.93692,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "exhibition",
+          "accuracy": 0.96986,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "expect",
+          "accuracy": 0.95828,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "indoors",
+          "accuracy": 0.99414,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "industry",
+          "accuracy": 0.94832,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "luggage",
+          "accuracy": 0.92302,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "modern",
+          "accuracy": 0.91788,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "shopping",
+          "accuracy": 0.96175,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "stock",
+          "accuracy": 0.92262,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "technology",
+          "accuracy": 0.95502,
+          "unstable__provider": "clarifai"
+        }
+      ],
+      "attribution": "\"Keysight Technologies\" by elektorlabs is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 768,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/1e1ea798-b47f-4a80-979c-a1b88df95c55/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/1e1ea798-b47f-4a80-979c-a1b88df95c55/",
+      "related_url": "https://api.openverse.org/v1/images/1e1ea798-b47f-4a80-979c-a1b88df95c55/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  {
+    "category": "Home & Living",
+    "label": "HOME & LIVING",
+    "slug": "home-living",
+    "query": "home interior photo",
+    "file": "home-living.jpg",
+    "webPath": "/categories/home-living.jpg",
+    "source": {
+      "id": "c626a850-99e9-4b48-b2e0-1aed007ce752",
+      "title": "Mother's Mid-Century-Modern Bureau",
+      "indexed_on": "2020-04-25T09:14:32.457365Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/40595948@N00/3845996561",
+      "url": "https://live.staticflickr.com/2611/3845996561_2e4fd8dab7_b.jpg",
+      "creator": "A.Davey",
+      "creator_url": "https://www.flickr.com/photos/40595948@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "handcarvedfurniture",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "homemadefurniture",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "mahoganyfurniture",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "midcenturymodernfurniture",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "cabinet",
+          "accuracy": 0.93267,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "carpentry",
+          "accuracy": 0.97811,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "cupboard",
+          "accuracy": 0.9212,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "desk",
+          "accuracy": 0.90813,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "drawer",
+          "accuracy": 0.9636,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "empty",
+          "accuracy": 0.93584,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "family",
+          "accuracy": 0.96446,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "furniture",
+          "accuracy": 0.99853,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "grain",
+          "accuracy": 0.90692,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "hardwood",
+          "accuracy": 0.96785,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "house",
+          "accuracy": 0.94047,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "interior design",
+          "accuracy": 0.98052,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "log",
+          "accuracy": 0.92359,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "parquet",
+          "accuracy": 0.93296,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "retro",
+          "accuracy": 0.93295,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "room",
+          "accuracy": 0.93301,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "wall",
+          "accuracy": 0.90805,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "wood",
+          "accuracy": 0.99753,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "wooden",
+          "accuracy": 0.97557,
+          "unstable__provider": "clarifai"
+        }
+      ],
+      "attribution": "\"Mother's Mid-Century-Modern Bureau\" by A.Davey is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 1024,
+      "width": 912,
+      "thumbnail": "https://api.openverse.org/v1/images/c626a850-99e9-4b48-b2e0-1aed007ce752/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/c626a850-99e9-4b48-b2e0-1aed007ce752/",
+      "related_url": "https://api.openverse.org/v1/images/c626a850-99e9-4b48-b2e0-1aed007ce752/related/",
+      "unstable__sensitivity": []
+    }
+  }
+]

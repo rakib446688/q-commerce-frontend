@@ -1,0 +1,15 @@
+export const pages = {
+  Home: "/",
+  CategoryListing: "/category",
+  Login: "/login",
+  Signup: "/signup",
+  Cart: "/cart",
+  Checkout: "/checkout",
+  Account: "/account",
+  Wishlist: "/wishlist",
+  Trending: "/trending",
+  Shop: "/shop",
+  Orders: "/orders",
+  ProductDetail: "/product/:id",
+  Admin: "/admin",
+};
